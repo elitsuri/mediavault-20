@@ -1,0 +1,18 @@
+{
+  "project_name": "mediavault",
+  "generated_at": "2026-04-23T16:34:04.068052+00:00",
+  "quality_profile": "production",
+  "documentation_policy": {
+    "no_emoji": true,
+    "plain_markdown": true
+  },
+  "stack": [
+    "cpp"
+  ],
+  "file_count": 13,
+  "artifacts": {
+    "readme": "README.md",
+    "architecture_doc": "docs/ARCHITECTURE.md",
+    "operations_doc": "docs/OPERATIONS.md"
+  }
+}
